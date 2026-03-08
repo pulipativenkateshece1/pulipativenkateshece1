@@ -28,15 +28,14 @@
 </a>
 
 <a href="https://leetcode.com/u/pulipativenkatesh/" target="_blank">
-<img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/venkatesh_p2023" target="_blank">
-<img src="https://skillicons.dev/icons?i=hackerrank" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" height="40"/>
 </a>
 
 </p>
-
 📫 **Email:** pulipativenkatesh18@gmail.com
 
 ---
